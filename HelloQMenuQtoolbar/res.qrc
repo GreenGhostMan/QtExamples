@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>face-angel-symbolic.symbolic.png</file>
+        <file>face-angry-symbolic.symbolic.png</file>
+        <file>face-cool-symbolic.symbolic.png</file>
+        <file>face-crying-symbolic.symbolic.png</file>
+        <file>face-devilish-symbolic.symbolic.png</file>
+    </qresource>
+</RCC>
